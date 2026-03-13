@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349046656054",
+    "project_id": "jigeen-7fad2",
+    "storage_bucket": "jigeen-7fad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349046656054:android:6023d25ff19ba3e5e99c97",
+        "android_client_info": {
+          "package_name": "com.example.jigeen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7PWklD0TLSux3xoUZsMhTOk9zo_KSoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
